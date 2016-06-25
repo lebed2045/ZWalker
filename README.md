@@ -7,6 +7,8 @@ It was my university project supervised by Zapunidi Sergey from Laboratory of ph
 Unfortunately, I was stupid enough to do not record video when I finished the robot, so the only evidence I have the old video while I first launched it. So it was kind of first, tentative steps of Zwalker and it walked far better in all future test, especially after I've changed plastic servos to the metal one. Also it controled by bluetooth. 
 
 The robots controles via console, using following commands:
+
+
   	{ "help",		WRCommandHelp, "help [command] - manual about this command" },	
 
   	{ "on",			WRCommandServsOn, 	"turn on voltage" },
